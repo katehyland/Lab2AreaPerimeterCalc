@@ -1,0 +1,10 @@
+/Users/khyland/Projects/GrandCircusQ4Projects/10.21.19ClassWork/10.21.19ClassWork/bin/Debug/netcoreapp2.1/10.21.19ClassWork.deps.json
+/Users/khyland/Projects/GrandCircusQ4Projects/10.21.19ClassWork/10.21.19ClassWork/bin/Debug/netcoreapp2.1/10.21.19ClassWork.runtimeconfig.json
+/Users/khyland/Projects/GrandCircusQ4Projects/10.21.19ClassWork/10.21.19ClassWork/bin/Debug/netcoreapp2.1/10.21.19ClassWork.runtimeconfig.dev.json
+/Users/khyland/Projects/GrandCircusQ4Projects/10.21.19ClassWork/10.21.19ClassWork/bin/Debug/netcoreapp2.1/10.21.19ClassWork.dll
+/Users/khyland/Projects/GrandCircusQ4Projects/10.21.19ClassWork/10.21.19ClassWork/bin/Debug/netcoreapp2.1/10.21.19ClassWork.pdb
+/Users/khyland/Projects/GrandCircusQ4Projects/10.21.19ClassWork/10.21.19ClassWork/obj/Debug/netcoreapp2.1/10.21.19ClassWork.csprojAssemblyReference.cache
+/Users/khyland/Projects/GrandCircusQ4Projects/10.21.19ClassWork/10.21.19ClassWork/obj/Debug/netcoreapp2.1/10.21.19ClassWork.AssemblyInfoInputs.cache
+/Users/khyland/Projects/GrandCircusQ4Projects/10.21.19ClassWork/10.21.19ClassWork/obj/Debug/netcoreapp2.1/10.21.19ClassWork.AssemblyInfo.cs
+/Users/khyland/Projects/GrandCircusQ4Projects/10.21.19ClassWork/10.21.19ClassWork/obj/Debug/netcoreapp2.1/10.21.19ClassWork.dll
+/Users/khyland/Projects/GrandCircusQ4Projects/10.21.19ClassWork/10.21.19ClassWork/obj/Debug/netcoreapp2.1/10.21.19ClassWork.pdb
